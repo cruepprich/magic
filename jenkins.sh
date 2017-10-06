@@ -1,3 +1,3 @@
 echo "Running SQLcl"
-sqlcl_tunnel.sh
+./sqlcl_tunnel.sh
 echo "sqlcl_tunnel done"
